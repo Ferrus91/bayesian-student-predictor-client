@@ -1,0 +1,10 @@
+.predictorInput {
+  margin-bottom: 20px;
+  width: 500px;
+}
+
+.predictorLabel {
+  color: white;
+  margin-top: 10px;
+  margin: auto 0;
+}

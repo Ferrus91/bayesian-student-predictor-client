@@ -1,0 +1,26 @@
+.dataGrid {
+  width: 1000px;
+}
+
+.dataBoxContainer {  
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+:global .react-grid-HeaderCell {
+  font-size: 10px;
+}
+
+:global .react-grid-Cell__value {
+  font-size: 10px;
+}
+
+.homepageButton {
+  margin-top: 10px;
+}
+
+.buttonsBox {
+  flex-direction: column;
+}

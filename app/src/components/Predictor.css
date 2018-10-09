@@ -1,0 +1,34 @@
+.buttonBox {
+  margin-top: 20px;
+}
+
+.titleText {
+  color: white;
+}
+
+.predictorBox {
+  margin-top: 450px;
+}
+
+.probabilityBox {
+  max-width: 500px;
+}
+
+.probabilityLabel {
+  color: red;
+  size: 25px;
+  margin: auto 0;
+}
+
+.codeInput {
+  margin-bottom: 20px;
+  width: 500px;
+  height: 30px;
+  border-radius: 5px;
+}
+
+.codeLabel {
+  color: white;
+  margin-top: 10px;
+  margin: auto 0;
+}
